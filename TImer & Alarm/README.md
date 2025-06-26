@@ -1,8 +1,8 @@
-To use said program you must install the pygame module
-To do so on a windows machine :
-win+R
-"cmd"
-Hit run
-Enter the following command:
-py -m pip install -U pygame --user
+To use said program you must install the pygame module <br />
+To do so on a windows machine : <br />
+win+R <br />
+"cmd" <br />
+Hit run <br />
+Enter the following command: <br />
+py -m pip install -U pygame --user <br />
 DONE!
