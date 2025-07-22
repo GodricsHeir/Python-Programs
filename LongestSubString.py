@@ -28,4 +28,5 @@ def longestPalindrome(s):
     else:
         return "No Palindrome Found"
     
-print(longestPalindrome("palindrome")) 
+print(longestPalindrome(input("Enter a string: "))) 
+
